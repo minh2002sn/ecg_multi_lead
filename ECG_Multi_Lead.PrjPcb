@@ -175,7 +175,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=7
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -186,7 +186,24 @@ GenerateClassCluster=0
 DocumentUniqueId=UCDMULDR
 
 [Document9]
-DocumentPath=SCH_04_WCT_RLD.SchDoc
+DocumentPath=SCH_04_Chest_Lead_Amplifier.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TGOWERBN
+
+[Document10]
+DocumentPath=SCH_05_WCT_RLD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -202,8 +219,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SEOKWNHP
 
-[Document10]
-DocumentPath=SCH_05_Analog_Mux.SchDoc
+[Document11]
+DocumentPath=SCH_06_Analog_Mux.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -219,8 +236,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMSWIORD
 
-[Document11]
-DocumentPath=SCH_06_Filter.SchDoc
+[Document12]
+DocumentPath=SCH_07_Filter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,8 +253,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHPMWYPG
 
-[Document12]
-DocumentPath=SCH_07_ADC.SchDoc
+[Document13]
+DocumentPath=SCH_08_ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -253,8 +270,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFFBQUIG
 
-[Document13]
-DocumentPath=SCH_08_InOut_Terminal.SchDoc
+[Document14]
+DocumentPath=SCH_09_InOut_Terminal.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -270,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYDGGHZD
 
-[Document14]
+[Document15]
 DocumentPath=..\Altium_Libs\Altium_WCAP-ASLI (rev22d).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=..\Altium_Libs\Altium_WCAP-CSGP (rev24b).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=..\Altium_Libs\Altium_WCAP-CSMH (rev22d).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=..\Altium_Libs\Altium_WCAP-CSRF (rev22e).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=..\Altium_Libs\Altium_WE-PD2A (rev22c).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=..\Altium_Libs\Altium_WE-XTAL (rev22a).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document21]
 DocumentPath=..\Altium_Libs\Altium_WRIS-PSMB (rev22a).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=..\Altium_Libs\Altium_WR-PHD (rev24a).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=..\Altium_Libs\Giang's Libs.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document24]
 DocumentPath=..\Altium_Libs\Diode_Schottky_SMA\Project Outputs for Diode_Schottky_SMA\Diode_Schottky_SMA.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document25]
 DocumentPath=Job_Output.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
